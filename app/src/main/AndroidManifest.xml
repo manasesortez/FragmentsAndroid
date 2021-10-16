@@ -12,15 +12,6 @@
         android:theme="@style/AppTheme"
         tools:ignore="AllowBackup">
         <activity
-            android:name=".acercaDe"
-            android:exported="true" />
-        <activity
-            android:name=".Configuracion"
-            android:exported="true" />
-        <activity
-            android:name=".Registro"
-            android:exported="true" />
-        <activity
             android:name=".Splash_Screem"
             android:exported="true">
             <intent-filter>

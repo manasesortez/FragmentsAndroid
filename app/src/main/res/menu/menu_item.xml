@@ -5,6 +5,7 @@
 
     <item
         tools:ignore="AlwaysShowAction,MenuTitle"
+        android:id="@+id/main"
         android:icon="@drawable/ic_baseline_more_vert_24"
         app:showAsAction="always">
         <menu>
